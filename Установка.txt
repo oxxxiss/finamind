@@ -1,0 +1,5 @@
+Установка модуля FinamIND
+
+1. Загрузите все файлы на сервер
+2. INSERT INTO dle_admin_sections (name, title, descr, icon, allow_groups) VALUES ('finam', 'Модуль FinamIND', 'Настройки модуля finam', 'finam.png', '1')
+3. Вставте в любом месте шаблона {include file="/engine/modules/finam.php"}
