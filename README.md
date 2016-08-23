@@ -1,14 +1,14 @@
-#ОПИСАНИЕ
+#РћРџРРЎРђРќРР•
 ![version](https://img.shields.io/badge/version-1.0-red.svg?style=flat-square "Version")
 ![DLE](https://img.shields.io/badge/DLE-10.x-green.svg?style=flat-square "DLE Version")
 
-Данный модуль выводит мировые индексы у вас на сайте в любом месте. Модуль обновляет данные каждый раз когда пользователь обновляет страницу. 
+Р”Р°РЅРЅС‹Р№ РјРѕРґСѓР»СЊ РІС‹РІРѕРґРёС‚ РјРёСЂРѕРІС‹Рµ РёРЅРґРµРєСЃС‹ Сѓ РІР°СЃ РЅР° СЃР°Р№С‚Рµ РІ Р»СЋР±РѕРј РјРµСЃС‚Рµ. РњРѕРґСѓР»СЊ РѕР±РЅРѕРІР»СЏРµС‚ РґР°РЅРЅС‹Рµ РєР°Р¶РґС‹Р№ СЂР°Р· РєРѕРіРґР° РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РѕР±РЅРѕРІР»СЏРµС‚ СЃС‚СЂР°РЅРёС†Сѓ. 
 
-#УСТАНОВКА
-1. Загрузите все файлы на сервер
-2. INSERT INTO dle_admin_sections (name, title, descr, icon, allow_groups) VALUES ('finam', 'Модуль FinamIND', 'Настройки модуля finam', 'finam.png', '1')
-3. Вставте в любом месте шаблона {include file="/engine/modules/finam.php"}
+#РЈРЎРўРђРќРћР’РљРђ
+1. Р—Р°РіСЂСѓР·РёС‚Рµ РІСЃРµ С„Р°Р№Р»С‹ РЅР° СЃРµСЂРІРµСЂ
+2. INSERT INTO dle_admin_sections (name, title, descr, icon, allow_groups) VALUES ('finam', 'РњРѕРґСѓР»СЊ FinamIND', 'РќР°СЃС‚СЂРѕР№РєРё РјРѕРґСѓР»СЏ finam', 'finam.png', '1')
+3. Р’СЃС‚Р°РІС‚Рµ РІ Р»СЋР±РѕРј РјРµСЃС‚Рµ С€Р°Р±Р»РѕРЅР° {include file="/engine/modules/finam.php"}
 
-#НА ЧИПСЫ
+#РќРђ Р§РРџРЎР«
 Qiwi: +79994768647
 WM: R246895222292 , Z869848337718
